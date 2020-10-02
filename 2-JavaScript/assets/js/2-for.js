@@ -69,7 +69,7 @@ for (var i = 300; i <=333; i++) {
 }
 
 // Excercise 6
-// Write all even numbers divisible by 5 AND 3 between 5 and 50
+// Write all even numbers divisible by 5 AND 3 between 5 AND 50
 
 
 
