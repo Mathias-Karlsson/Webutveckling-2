@@ -69,9 +69,32 @@ for (var i = 300; i <=333; i++) {
 }
 
 // Excercise 6
-// Write all even numbers divisible by 5 AND 3 between 5 AND 50
+// Write all numbers divisible by 5 AND 3 between 5 AND 50
+
+
 
 // Excercise 7
 // Multiplication
+var multiplier = 9
+for (var i = 0; i <= 10; i++) {
+    var result = i * multiplier;
+    document.writeln("<br>", "9 gånger ", i, " blir ", result, "<br>")
+}
+document.writeln('-----------------------------------------------------------------------------------<br>')
 
 
+
+
+
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
+// * * * * *
+
+for(var i = 0; i < 5; i++) {
+    for(var j = 0; j < 5; j++) {
+        document.writeln('* ')
+    }
+    document.writeln('<br>')
+}
