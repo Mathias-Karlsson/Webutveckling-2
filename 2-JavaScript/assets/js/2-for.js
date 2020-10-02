@@ -71,5 +71,7 @@ for (var i = 300; i <=333; i++) {
 // Excercise 6
 // Write all even numbers divisible by 5 AND 3 between 5 AND 50
 
+// Excercise 7
+// Multiplication
 
 
